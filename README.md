@@ -16,7 +16,7 @@ To execute this game, you only need a Python interpreter, which is available on 
 
 Clone a repository, change directory to `battling-knights-python/battling-knights` and execute `main.py` script.
 
-**Command:**
+**Commands:**
 
 `cd battling-knights-python/battling-knights`
 
