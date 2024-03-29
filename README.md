@@ -3,9 +3,9 @@
 ## Python Coding Challenge
 
 ### Summary
-Challenge.pdf contains all the necessary information to understand the dynamics of this game. It's a simple 
+[Challenge.pdf](https://github.com/muak4/battling-knights-python/blob/main/Challenge.pdf) contains all the necessary information to understand the dynamics of this game. It's a simple 
 console game that operates based on the contents of the `moves.txt` file. Contents of file is the combination
-of knights movements. It is also explained in Challenge.pdf.
+of knights movements. It is also explained in [Challenge.pdf](https://github.com/muak4/battling-knights-python/blob/main/Challenge.pdf).
 
 Console will be printed with every movement of knight as well as little
 explanation of what happened in this step.
@@ -14,7 +14,11 @@ To execute this game, you only need a Python interpreter, which is available on 
 
 ### How to run this script?
 
-Clone a repository and run following command
+Clone a repository, change directory to `battling-knights-python/battling-knights` and execute `main.py` script.
+
+**Command:**
+
+`cd battling-knights-python/battling-knights`
 
 `python3 main.py` 
 
