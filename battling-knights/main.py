@@ -13,11 +13,11 @@ def run_game():
     print("Welcome To Battle of Knights")
     print("******************************************")
 
-    moves = read_moves_file("moves2.txt")
+    moves = read_moves_file("moves.txt")
     update_board()
 
     for move in moves:
-        time.sleep(0.5)
+        time.sleep(1)
         move_knight(move)
 
     final_result = generate_final_result()
